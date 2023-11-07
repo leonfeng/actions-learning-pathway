@@ -1,5 +1,8 @@
-name: 'Hello World JS Action'
+name: 'Hello World JS Action by Leon Feng'
 description: 'Greet someone and record the time'
+author: 'Leon Feng'
+icon: 'activity'
+color: 'gray-dark'
 inputs:
   who-to-greet:
     description: 'Who to greet'
